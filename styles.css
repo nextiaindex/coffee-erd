@@ -47,6 +47,7 @@ section {
 
 #home {
 	background-color: var(--green1);
+	padding-block: 10rem;
 }
 
 #home_circle {
