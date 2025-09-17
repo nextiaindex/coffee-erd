@@ -19,6 +19,10 @@ nav a:hover {
 	color: #14b892;
 }
 
+.nav_margin {
+	margin: 1rem;
+}
+
 #nav_title {
     font-weight: bold;
 }
