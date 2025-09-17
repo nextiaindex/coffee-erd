@@ -2,6 +2,7 @@
 	--green2: #14b892;
 }
 
+
 nav {
     background-color: #14483c;
     display: flex;
@@ -37,7 +38,7 @@ nav a:hover {
 }
 
 #home {
-	margin-top: 10rem;
+	background-color: #14483c;
 }
 
 #home_circle {
