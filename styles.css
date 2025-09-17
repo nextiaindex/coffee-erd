@@ -11,6 +11,10 @@ ul {
     padding: 0;
 }
 
+#nav_title {
+    font-weight: bold;
+}
+
 #nav_item {
     display: flex;
     gap: 2rem;
