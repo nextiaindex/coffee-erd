@@ -50,6 +50,10 @@ section {
 	padding-block: 10rem;
 }
 
+#home_title {
+    font-family: Saira, sans-serif;
+}
+
 #home_circle {
 	width: 30rem;
 	height: 30rem;
