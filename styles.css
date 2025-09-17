@@ -1,3 +1,7 @@
+:root {
+	--green2: #14b892;
+}
+
 nav {
     background-color: #14483c;
     display: flex;
@@ -16,7 +20,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #14b892;
+	color: var(--green2);
 }
 
 .nav_margin {
