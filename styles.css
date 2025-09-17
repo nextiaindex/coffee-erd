@@ -10,6 +10,10 @@ nav a {
 	text-decoration: none;
 }
 
+nav a:hover {
+	color: #14b892;
+}
+
 #nav_title {
     font-weight: bold;
 }
