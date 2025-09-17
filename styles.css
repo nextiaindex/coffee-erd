@@ -50,8 +50,8 @@ section {
 }
 
 #home_circle {
-	width: 40rem;
-	height: 40rem;
+	width: 30rem;
+	height: 30rem;
 	border-radius: 50%;
 	background-color: var(--green2);
 	margin-left: auto;
