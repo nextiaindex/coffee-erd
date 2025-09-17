@@ -5,6 +5,10 @@ nav {
     font-family: Saira, sans-serif;
 }
 
+nav a {
+	color: #fafffe;
+}
+
 #nav_title {
     font-weight: bold;
 }
