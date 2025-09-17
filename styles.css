@@ -36,6 +36,10 @@ nav a:hover {
     gap: 2rem;
 }
 
+#home {
+	margin-top: 10rem;
+}
+
 #home_circle {
 	width: 40rem;
 	height: 40rem;
