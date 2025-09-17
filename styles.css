@@ -1,6 +1,7 @@
 :root {
 	--green1: #14483c;
 	--green2: #14b892;
+	--fg1: #fafffe;
 }
 
 body {
@@ -19,7 +20,7 @@ nav {
 }
 
 nav a {
-	color: #fafffe;
+	color: var(--fg1);
 	text-decoration: none;
 	transition: color 0.2s;
 }
@@ -52,7 +53,7 @@ section {
 
 #home_title {
     font-family: Saira, sans-serif;
-	color: #fafffe;
+	color: var(--fg1);
 }
 
 #home_circle {
