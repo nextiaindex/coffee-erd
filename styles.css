@@ -2,6 +2,9 @@
 	--green2: #14b892;
 }
 
+body {
+	margin: 0;
+}
 
 nav {
     background-color: #14483c;
