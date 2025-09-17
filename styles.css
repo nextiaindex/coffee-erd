@@ -3,6 +3,10 @@ nav {
     display: flex;
     justify-content: space-between;
     font-family: Saira, sans-serif;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
 }
 
 nav a {
